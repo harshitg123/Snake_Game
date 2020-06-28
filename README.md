@@ -10,6 +10,7 @@
 ![](img-3.PNG)
 
 #### 4. Now DOWNLOAD will start.
+![](img-5.PNG)
 
 # Screenshots of the GAME?
 ![](giphy.gif)   ![](img-4.PNG)
