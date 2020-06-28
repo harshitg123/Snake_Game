@@ -1,2 +1,3 @@
-# Snake_Game
-Popular snake game in python
+# How to download Snake Game?
+
+#### 1. Open snake game setup folder.
