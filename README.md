@@ -12,3 +12,4 @@
 #### 4. Now DOWNLOAD will start.
 
 # Screenshots of the GAME?
+![](giphy.gif)   ![](img-4.PNG)
